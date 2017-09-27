@@ -3,8 +3,16 @@ Perform Linear Regression on the Boston Housing Data Set
 
 # SETUP
 
-to run install Jupyter 
-"Jupyter notebook <filename>"
+
+Need Jupyter
+------------
+Install here: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html
+
+to run 
+'''
+jupyter notebook <filename>
+
+'''
 
 
 The included Jupyter notebook covers
