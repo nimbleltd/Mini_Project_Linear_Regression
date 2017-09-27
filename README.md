@@ -6,7 +6,7 @@ Perform Linear Regression on the Boston Housing Data Set
 here: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html
 
 to run 
-`jupyter notebook <filename>`
+`jupyter notebook Mini_Project_Linear_Regression.ipynb`
 
 The included Jupyter notebook covers
 
